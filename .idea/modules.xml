@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deck/deck.iml" filepath="$PROJECT_DIR$/deck/deck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-mod-10-redesigning-data-structures-for-cassandra.iml" filepath="$PROJECT_DIR$/.idea/java-mod-10-redesigning-data-structures-for-cassandra.iml" />
+    </modules>
+  </component>
+</project>
